@@ -48,3 +48,4 @@ How do we know what we think we know about a digital system?
 ---
 
 *Understand the system. Question its assumptions. Follow the evidence.*
+# digital-epistemology
